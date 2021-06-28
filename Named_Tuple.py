@@ -1,5 +1,6 @@
 '''
 It is used for numeric connection to value as well as name connections to value
+Some time it is happen when we don't know that what value at which index you can easily handle with this
 '''
 from collections import namedtuple
 Dog=namedtuple('dog',['breed','age','name'])
